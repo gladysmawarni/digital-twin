@@ -1,0 +1,21 @@
+{
+  "full_name": "Gladys Mawarni",
+  "name": "gladys",
+  "current_role": "Data Analyst",
+  "location": "Lisbon, Portugal",
+  "email": "gladysmawarni@gmail.com",
+  "linkedin": "linkedin.com/in/gladysmawarni",
+  "specialties": [
+    "Python",
+    "Power BI / Tableau",
+    "Statistics"
+  ],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "Bachelor in International Business Management",
+      "institution": "Polytechnic Institute of Bragança",
+      "year": "2021"
+    }
+  ]
+}
